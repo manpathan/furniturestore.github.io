@@ -1,0 +1,78 @@
+body{background: #ecfdff !important;}
+.logo h1{font: size 34px;font-weight: 700;text-align: center;font-family: "Poppins", sans-serif;padding: 29px 23px;}
+.navbar-expand-lg{float: right;}
+.navbar-light .navbar-nav .nav-link{font-family: 'Courier New', Courier, monospace;color: #000;font-size: 15px;padding: 36px 23px;}
+.carousel-item{width: 100%;position: relative;margin-top: 2%;}
+.carousel-item img{width: 100%;position: relative;margin-top: 2%;}
+.first-text{margin-top: 18%;}
+.first-text h1{font-size: 66px;font-weight: 700;margin-bottom: 35px;}
+.first-text p{font-size: 15px;font-family: "Poppins", sans-serif;margin-bottom: 70px;}
+.first-text a{width: 180px;height: 60px;text-align: center;border-radius: 5px;background-color: #ff3368;font-size: 15px;font-family: "Poppins", sans-serif;font-weight: 500;color: #fff;display: inline-block;line-height: 60px;text-decoration: none;}
+.first-text a:hover{background-image: linear-gradient(16deg, #ff005a 0%, #ff5d2d 64%, #ffba00 100%);}
+.text-only{padding-top: 140px;}
+.text-only h1{font-size: 36px;text-align: center;color: #000;font-weight: 700;margin-bottom: 28px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.text-only p{font-size: 16px;font-family: "Poppins", sans-serif;text-align: center;color: #7F85A8;margin-top: 30px;line-height: 1.6;}
+.link{margin-top: 5%;text-align: center;text-decoration: none;}
+.link a{font-size: 20px;color: #000;padding: 20px 28px;}
+.link a:hover{color: #ff005a;}
+.shop-1 h6{line-height: 13px;margin-top: 5%;padding-top: 30px;}
+.shop-1 img{float: right;}
+.shop-1 a{bottom: 50px;color: #ff005a;font-size: 16px;text-decoration: none;}
+.shop-1 a:hover{color: #ff5d2d;}
+.lightbox-gallery{background-image: linear-gradient(#f8fbff, #fff);background-repeat: no-repeat;color: #000;overflow-x: hidden}.lightbox-gallery p{color:#000}.lightbox-gallery h2{font-weight:bold;margin-bottom:40px;padding-top:40px;color:#000}@media (max-width:767px){.lightbox-gallery h2{margin-bottom:25px;padding-top:25px;font-size:24px}}.lightbox-gallery .intro{font-size:16px;max-width:500px;margin:0 auto 40px}.lightbox-gallery .intro p{margin-bottom:0}.lightbox-gallery .photos{padding-bottom:20px}.lightbox-gallery .item{padding-bottom:30px}
+.lightbox-gallery h4{font-weight: 700;font-size: 18px;margin-bottom: 14px;text-align: center;text-decoration: none;color: #000;margin-top: 10%;}
+.lightbox-gallery h3{font-weight: 300;font-size: 18px;text-align: center;text-decoration: none;color:#7F85A8; }
+.grow img{transition: 1s ease;}
+.grow img:hover{transform: scale(1.1);transition: 1s ease;}
+.last{width: 100%;height: 530px;}
+.last img{width: 82%;height: 475px;margin-top: 30px;}
+.last-text{text-align: center;margin-top: 5%;}
+.form1{margin-top: 5%;}
+.last-text{margin-top: 25%;}
+.footer{margin-top: 5%;}
+.last-text h2{padding-bottom: 15px;color: #ff005a;}
+.bg-light{background-color: #ecfdff !important;}
+.carousel-caption{color: #000 !important;}
+.view{width: 100%;position: relative;margin-top: 15%;}
+.view img{width: 100%;position: relative;margin-top: 15%;}
+.blog-text{margin-top: 55%;padding-right: 30px;}
+.stretch-card>.card{width: 100%;min-width: 100%}body{background-color: #f9f9fa}.flex{-webkit-box-flex: 1;-ms-flex: 1 1 auto;flex: 1 1 auto}@media (max-width:991.98px){.padding{padding: 1.5rem}}@media (max-width:767.98px){.padding{padding: 1rem}}.padding{padding: 3rem}.card .card-title{color: #000000;margin-bottom: 0.625rem;text-transform: capitalize;font-size: 0.875rem;font-weight: 500}.card .card-description{margin-bottom: .875rem;font-weight: 400;color: #76838f}.mainimage{width: 100% !important}
+.prod-text{margin-top: 55%;}
+.prod-text1{margin-top: 40%;}
+.prod-text1 h5{font-size: 24px;font-weight: 700;color: #2a2a2a;margin-bottom: 10px;}
+.prod-text1 h2{font-size: 24px;font-weight: bold;color: #ff3368;margin-bottom: 15px;}
+.list1{text-decoration: none;}
+.list2 a{background-color: #ff005a;color: #f9f9fa;border-radius: 30px;padding: 13px 36px;}
+.list2 a:hover{background-color: #ff5d2d;padding: 13px 36px;text-decoration: none;}
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+      float: left;
+      width: 25%;
+      max-width: 100%;
+    }
+  }
+  
+  .carousel-multi-item-2 .card img {
+    border-radius: 2px;
+  }
+.log-box{background-size: 200% auto;background-image: linear-gradient(16deg, #ff005a 0%, #ff5d2d 64%, #ffba00 100%);height: 480px;margin-top: 15%;}
+.log-box h2{font-size: 28px;font-weight: 700;line-height: 35px;color: #fff;margin-bottom: 17px;text-align: center;padding-top: 160px;}
+.log-box p{font-family: "Poppins", sans-serif;font-size: 15px;font-weight: 300;text-align: center;color: #f9f9fa;margin-bottom: 36px;}
+.log-box a{border: 1px solid #ffc2d2;font-size: 18px;margin-top: 28px;text-align: center;text-decoration: none;color: #ecfdff;margin-left: 95px;padding: 10px;width: 100%;}
+.log-box a:hover{background-color: #ecfdff;color: #ff005a;}
+.log-text{height: 480px;margin-top: 30%;padding-left: 65px;}
+.log-text h3{font-size: 26px;line-height: 36px;font-weight: 700;margin-bottom: 80px;}
+.track-box{margin-top: 10%;}
+.track-box a{background-color: #ff005a;color: #f8fbff;text-decoration: none;padding: 10px;border-radius: 5px;margin-top: 5px;}
+.track-box a:hover{background-color: #ff5d2d;}
+.track-box .form-control{margin-bottom: 50px;}
+.check-box{margin-top: 10%;}
+.check-box h6{padding-bottom: 5px;font-size: 20px;font-weight: 500;margin-top: 35px;}
+.check-box a{padding-top: 5px;}
+.cart1{margin-top: 10%;}
+.cart2{margin-top: 34%;}
+.cart3 img{width: 100px;height: 120px;padding-top: 20px;}
+.cart3 p{padding-left: 155px;margin-bottom: 20px;}
+.cart5{padding-top: 52px;}
+.cart6{padding-top: 60px;}
+.form-control {width: 35% !important;}
